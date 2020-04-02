@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Doggy()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Doggy\r\n
+comment1.params=name
+comment1.target=Doggy(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Doggy\r\n
+numComments=2

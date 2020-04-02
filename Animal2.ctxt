@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Animal2()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Animal2\r\n
+comment1.params=name
+comment1.target=Animal2(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Animal2\r\n
+comment2.params=
+comment2.target=void\ sleep()
+comment3.params=
+comment3.target=void\ speak()
+comment4.params=
+comment4.target=void\ move()
+comment5.params=sb\ mb
+comment5.target=void\ setBehavior(SpeakBehavior,\ MoveBehavior)
+numComments=6
